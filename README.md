@@ -1,2 +1,15 @@
-# -E-commerce-Product-Recommendation-System
-You'll be working on building a recommendation engine for our e-commerce platform. Utilizing customer behavior data and machine learning techniques, you'll design a system capable of suggesting personalized product recommendations to users, enhancing their shopping experience and increasing sales.
+# Recommender-System-Based-on-Purchasing-Behavior-Data
+
+Data Source:
+
+https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop
+
+- Built recommender systems for recommending products and brands to online cosmetics shop users using popularity model, item-based Collaborative Filtering, Matrix Factorization with Implicit Alternative Least Squares, and Neural Networks.
+
+- User-Product Matrix has a sparsity of 99.9285%
+
+- User-Brand Matrix has a sparsity of 98.8192%
+
+![GitHub Logo](/product_cnt.png)
+
+![GitHub Logo](/brand_cnt.png)
